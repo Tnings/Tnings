@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Tnings's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tnings&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Tnings's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tnings&count_private=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Tnings/Tnings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
