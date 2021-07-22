@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-[![Tnings's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tnings&count_private=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tnings&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Tnings's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tnings&count_private=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
