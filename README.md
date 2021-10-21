@@ -1,16 +1,10 @@
 # Tnings
 
-Hi! I'm Tnings
+Hi! I'm May
 
 
 # Pins
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tnings&theme=material-palenight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Tnings's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tnings&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Tnings's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tnings&count_private=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-
+[![wakatime](https://wakatime.com/badge/user/8cb03fd1-bff7-4303-a3c2-39769e8b824e.svg)](https://wakatime.com/@8cb03fd1-bff7-4303-a3c2-39769e8b824e)
 
 
 
