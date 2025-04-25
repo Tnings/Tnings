@@ -3,11 +3,6 @@
 Hi! I'm May
 
 
-# Pins
-[![wakatime](https://wakatime.com/badge/user/8cb03fd1-bff7-4303-a3c2-39769e8b824e.svg)](https://wakatime.com/@8cb03fd1-bff7-4303-a3c2-39769e8b824e)
-
-
-
 
 <!--
 **Tnings/Tnings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
